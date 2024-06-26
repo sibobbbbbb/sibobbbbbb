@@ -39,3 +39,8 @@ I am an informatics engineering student at the Bandung Institute of Technology.
   </a>
 </div>
 
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/sibobbbbbb/count.svg?"  />
+</div>
