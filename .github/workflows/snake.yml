@@ -29,8 +29,9 @@ jobs:
 
       - name: Customize snake colors
         run: |
-          sed -i 's/#5c6370/#0891b2/g' dist/snake.svg  # Change snake color
-          sed -i 's/#282c34/#1c1917/g' dist/snake.svg  # Change background color
+          sed -i 's/#8b949e/#0891b2/g' dist/snake.svg  # Ubah warna snake
+          sed -i 's/#161b22/#1c1917/g' dist/snake.svg  # Ubah warna background
+          sed -i 's/#cdd9e5/#ffffff/g' dist/snake.svg  # Ubah warna teks
 
       - name: Push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
