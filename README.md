@@ -1,12 +1,14 @@
 # Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="50px" /> My name is Farhan Raditya Aji
 
-Final-year Computer Science student at Institut Teknologi Bandung (ITB) with a strong foundation in Software Engineering and System Architecture. I have professional experience designing and deploying scalable, enterprise-grade applications using Java (Spring Boot), Go, and Node.js.
-
-My engineering philosophy centers on writing clean, maintainable code and optimizing system performance. I enjoy solving complex problems, from architecting microservices to optimizing database queries and am eager to contribute to impactful software development teams.
+<div align="justify">
+  Final-year Computer Science student at Institut Teknologi Bandung (ITB) with a strong foundation in Software Engineering and System Architecture. I have professional experience designing and deploying scalable, enterprise-grade applications using Java (Spring Boot), Go, and Node.js. 
+  <br><br>
+  My engineering philosophy centers on writing clean, maintainable code and optimizing system performance. I enjoy solving complex problems, from architecting microservices to optimizing database queries and am eager to contribute to impactful software development teams.
+</div>
 
 ## 🛠️ Tech Stack & Tools
 
-Here are the technologies I work with, mirroring my portfolio:
+Here are the technologies I work with:
 
 | Area | Technologies |
 | :--- | :--- |
@@ -28,14 +30,9 @@ Here are the technologies I work with, mirroring my portfolio:
 ## 📊 My GitHub Stats
 
 <div align="center">
-
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sibobbbbbb&theme=dracula&no-frame=true&row=1&column=7" alt="Trophy Graph" />
-  </a>
   
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=sibobbbbbb&show_icons=true&include_all_commits=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" height="180" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sibobbbbbb&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" height="180" alt="Stats" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sibobbbbbb&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" height="180" alt="Langs" />
   
   <br/>
